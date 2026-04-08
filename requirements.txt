@@ -1,0 +1,7 @@
+fastapi>=0.115.0
+uvicorn
+pydantic
+google-adk
+google-cloud-bigquery
+google-cloud-alloydb-connector[pg8000]
+sqlalchemy
